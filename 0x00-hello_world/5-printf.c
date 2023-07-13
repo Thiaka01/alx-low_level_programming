@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * main - Entry point
- * Description: 'Code used to write a printf function in a single line'
- * Return : Always 0 (Success)
+ * main - Code that prints a line using the printf function
+ * Return :  0 (Success)
  */
 int main(void)
 {
